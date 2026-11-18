@@ -1,0 +1,39 @@
+{
+  "idTask": 0,
+  "peerId": 2778536,
+  "searchTaskVacancy": {
+    "vacancy": {
+      "region": "01",
+      "experience": "более 5 лет",
+      "zp": "100000",
+      "keyword": "Разработчик на java"
+    },
+    "localDateTime": {
+      "date": {
+        "year": 2026,
+        "month": 10,
+        "day": 29
+      },
+      "time": {
+        "hour": 12,
+        "minute": 23,
+        "second": 21,
+        "nano": 251902700
+      }
+    }
+  },
+  "lastApiRequestAt": {
+    "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 29
+    },
+    "time": {
+      "hour": 12,
+      "minute": 47,
+      "second": 20,
+      "nano": 887190000
+    }
+  },
+  "vacancyResponseList": []
+}

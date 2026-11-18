@@ -1,0 +1,68 @@
+{
+  "idTask": 3,
+  "peerId": 2778536,
+  "searchTaskVacancy": {
+    "vacancy": {
+      "region": "10",
+      "experience": "3-5 лет",
+      "zp": "",
+      "keyword": "Разнорабочий"
+    },
+    "localDateTime": {
+      "date": {
+        "year": 2026,
+        "month": 10,
+        "day": 26
+      },
+      "time": {
+        "hour": 11,
+        "minute": 39,
+        "second": 7,
+        "nano": 182289900
+      }
+    }
+  },
+  "lastApiRequestAt": {
+    "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 30
+    },
+    "time": {
+      "hour": 15,
+      "minute": 49,
+      "second": 22,
+      "nano": 63244300
+    }
+  },
+  "lastSendingMessages": {
+    "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 30
+    },
+    "time": {
+      "hour": 15,
+      "minute": 49,
+      "second": 22,
+      "nano": 62242500
+    }
+  },
+  "vacancyResponseList": [
+    {
+      "id": "f50ae253-c17d-11f1-aa68-7523fb122f6d",
+      "jsonName": "Старший техник",
+      "vacUrl": "https://trudvsem.ru/vacancy/card/1171001003909/f50ae253-c17d-11f1-aa68-7523fb122f6d",
+      "creationDate": "2026-10-06",
+      "company": {
+        "name": "ООО \"ТОЧКА НА КАРТЕ\""
+      },
+      "contactList": [
+        {
+          "type": "Телефон",
+          "value": "+7(950) 760-09-61"
+        }
+      ]
+    }
+  ]
+}
